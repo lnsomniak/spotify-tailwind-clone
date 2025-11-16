@@ -15,29 +15,6 @@ I wanted a project that would challenge me without overwhelming me. Spotify’s 
 
 Instead of focusing on data or backend features, I focused on becoming a better developer through repetition, refinement, and deliberate UI recreation.
 
-What my main focus was 
-
-Component Architecture
-
-Breaking the layout into reusable, predictable components — sidebar, playlist header, song rows, player controls, etc.
-
-Tailwind Discipline
-
-Learning when to use utility classes vs. extracting patterns. Understanding spacing, hierarchy, and responsive classes in a real scenario.
-
-Interaction & Feedback
-
-Animated play/pause states, a collapsible sidebar, transcript dropdowns, and other small touches that make the UI feel alive.
-
-Clean Layout Reproduction
-
-Matching spacing, typography, and structure to the real Spotify app taught me how to pay attention to details that normally disappear into the background.
-
-React Practice
-
-Managing state cleanly, passing props intentionally, and avoiding unnecessary re-renders, all the fundamentals I wanted to strengthen.
-
-
 What I Learned
 
 - UI cloning is one of the best ways to force yourself to notice design patterns you’d normally overlook, this was no different for me. 
